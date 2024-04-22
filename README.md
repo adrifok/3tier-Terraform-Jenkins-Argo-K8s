@@ -4,7 +4,6 @@ Project Details
 🛠️ **Tools Explored:
 - Terraform & AWS CLI for AWS infrastructure
 - Jenkins, Sonarqube, Terraform, Kubectl, and more for CI/CD setup
-- 
 - Helm, Prometheus, and Grafana for Monitoring
 - ArgoCD for GitOps practices
 ||
